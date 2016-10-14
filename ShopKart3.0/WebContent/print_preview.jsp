@@ -49,5 +49,6 @@
     <input type="button" value="Save as pdf" onclick="javascript:printDiv('printablediv')" align="middle"/>
     </div>
 </form>
+	<br><br>
 </body>
 </html>
